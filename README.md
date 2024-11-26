@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Zhang
 - 👀 I’m interested in Augmented Reality field
-- 🌱 I’m currently learning at University of Waikato
+- 🌱 I’m working on a Full-stack project team.
 - 📫 My email: alexzhang97@gmail.com
 
 <!---
